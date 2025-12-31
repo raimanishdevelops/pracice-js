@@ -1,0 +1,2 @@
+1> styles.css + makehtmlfrommap.js + index.html
+2> index.html + ternary_togglebuttonlabel.js

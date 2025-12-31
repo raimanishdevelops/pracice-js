@@ -1,0 +1,12 @@
+#root{
+ display: flex;
+ gap: 16px;
+}
+
+.car{
+    flex: 1;
+    height: 300px;
+    width: 260px;
+    
+    border: 5px red solid;
+}
